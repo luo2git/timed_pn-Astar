@@ -1,0 +1,17 @@
+﻿  output.cpp
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(9): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(101): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(199): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(296): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(325): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(321): warning C4101: “flag”: 未引用的局部变量
+  timedPN.vcxproj -> J:\原--数据\桌面\timed-PN\timedPN\x64\Debug\timedPN.exe

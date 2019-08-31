@@ -1,0 +1,28 @@
+﻿  data_read.cpp
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\data_read.cpp(15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\data_read.cpp(22): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\data_read.cpp(33): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\data_read.cpp(40): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+  output.cpp
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(9): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(105): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(101): warning C4101: “flag”: 未引用的局部变量
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(203): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\output.cpp(199): warning C4101: “flag”: 未引用的局部变量
+  OrthogonalList.cpp
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\orthogonallist.cpp(68): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\orthogonallist.cpp(78): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\orthogonallist.cpp(126): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+j:\原--数据\桌面\timed-pn\timedpn\timedpn\orthogonallist.cpp(162): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  g:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
