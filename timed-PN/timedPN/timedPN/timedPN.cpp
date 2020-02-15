@@ -18,6 +18,7 @@ CrossList SMatrix_C_pre, SMatrix_C_post;
 CrossList SMatrix_C;
 
 
+
 void timedPN_data()
 {
 	InitSMatrix(&SMatrix_C_pre);   // CrossList类型的变量在初次使用之前必须初始化 
